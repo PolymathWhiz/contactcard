@@ -1,6 +1,6 @@
 {
   "name": "polymathwhiz",
-  "version": "1.6.0",
+  "version": "1.0.0",
   "description": "A personal card for Miracle Anyanwu (@polymathwhiz)",
   "main": "/bin/card.js",
   "bin": {
